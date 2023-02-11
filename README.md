@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adyelson
 - 👀 I’m interested in improve my knowledge and try a new job as a programmer.
-- 🌱 I’m currently learning javascript...
+- 🌱 I’m currently learning javascript and no code...
 - 📫 How to reach me @Adyelson (telegram)
 
 <!---
